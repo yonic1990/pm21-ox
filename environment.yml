@@ -1,4 +1,4 @@
-name: pm01-ox
+name: pm21-ox
 channels:
   - conda-forge
 dependencies:
@@ -37,6 +37,8 @@ dependencies:
   - sympy=1.6.2
   - pytables=3.6.1
   - patsy=0.5.1
+  - pyviz::panel=0.12.1
+  - pyviz::hvplot=0.7.3
   - pip:
       - adskalman==0.3.11
       - arviz==0.11.2
