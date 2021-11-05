@@ -15,9 +15,8 @@ course. While we are doing that, for the first few days (or for the entire
 course), you may use our server. This will be taken offline shortly after the
 course is done.
 
-To login to https://strawlab-rp2.zoologie.uni-freiburg.de your sername is lower
-case last name with no spaces. Password is your Uni Freiburg login name. E.g.
-"Max von Musterman" is `vonmusterman` with `mm1234`.
+Login details to https://strawlab-rp2.zoologie.uni-freiburg.de will be discussed
+in class.
 
 ## Installation with Anaconda
 
